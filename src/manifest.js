@@ -1,6 +1,6 @@
 module.exports = {
   name: 'CocosPay',
-  version: '1.0.7',
+  version: '1.0.8',
   description: 'CocosPay Chrome Extension',
   author: 'chain@cocosbcx.io',
   manifest_version: 2,

@@ -60,7 +60,7 @@ module.exports = {
       {
         test: /\.js$/,
         loader: 'babel-loader',
-        include: [path.join(__dirname, '..', 'src'), path.join(__dirname, '..', 'test')],
+        include: [path.join(__dirname, '..', 'src'), path.join(__dirname, '..', 'test'), /EncryptedStream|LocalStream|AES/],
       },
       {
         test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
