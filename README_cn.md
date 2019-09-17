@@ -1,4 +1,4 @@
-[English](https://github.com/wangjiangs/CocosPay-Firefox-add-on/blob/master/README.md)
+[English](https://github.com/wangjiangs/CocosPay-Firefox-add-ons/blob/master/README.md)
 ## CocosPay:
 
 CocosPay 是一款Firefox附加组件， 该项目是基于Cocos-BCX公链的生态钱包.
