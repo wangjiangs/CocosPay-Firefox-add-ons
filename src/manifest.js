@@ -1,8 +1,8 @@
 module.exports = {
   name: 'CocosPay',
-  version: '1.0.8',
-  description: 'CocosPay Chrome Extension',
-  author: 'chain@cocosbcx.io',
+  version: '1.1.1',
+  description: 'CocosPay Firefox Addons',
+  author: 'wangjiang<wangjiang112357@gmail.com>',
   manifest_version: 2,
   icons: {
     '16': 'icons/16px.png',
